@@ -1,5 +1,5 @@
 # RESTAURANT
----
+
 You are dressed up fancy! You arrive at the restaurant and are placed in a baby seat. You are brought a milkshake with a straw. Dad begins to help you drink it. What do you do?:  
 
 [You finish the entire milkshake like a good baby with the help of your dad!](nap-time.md)  
