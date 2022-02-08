@@ -5,3 +5,5 @@ Parents wake up feeling happy from good sleep, they decide to get ready to go to
 [Cooperate with your mom](restaurant.md)  
 
 [Pee just right as your mom finishes putting on you fancy clothing](breakfast.md)  
+
+![clothing](https://media.giphy.com/media/l0He1c1uRcHaarb6o/giphy.gif)
