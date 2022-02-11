@@ -1,7 +1,7 @@
 # Choose Your Own Adventure 
 ## Life as a Baby
 
-The purpose of creating this repository is to practice collaboration using [ide50](https://ide.cs50.io/) and also practice linking to filepaths. 
+The purpose of creating this repository is to practice collaboration using [ide50](https://ide.cs50.io/) and also practice linking to markdown files.
 
 Click [here](morning.md) to begin!
 
